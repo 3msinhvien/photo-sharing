@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="691ba60b-92a8-4a09-856a-d609cf695d81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/db/dbLoad.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/dbLoad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/userModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/userModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../photo-sharing-v1/.codesandbox/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/../photo-sharing-v1/.codesandbox/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../photo-sharing-v1/photo-sharing-v1/src/components/UserDetail/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../photo-sharing-v1/photo-sharing-v1/src/components/UserDetail/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../photo-sharing-v1/photo-sharing-v1/src/components/UserList/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../photo-sharing-v1/photo-sharing-v1/src/components/UserList/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../photo-sharing-v1/photo-sharing-v1/src/components/UserPhotos/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../photo-sharing-v1/photo-sharing-v1/src/components/UserPhotos/index.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="36ysmDsn8qF5i7iuwoaHjiD3QF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "ts.external.directory.path": "D:\\Download\\Jetbrain Tool\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="691ba60b-92a8-4a09-856a-d609cf695d81" name="Changes" comment="" />
+      <created>1765990307515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765990307515</updated>
+      <workItem from="1765990309288" duration="2863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
